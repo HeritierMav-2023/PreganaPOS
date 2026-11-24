@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Test results
+TestResults/
+*.trx
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.sln.iml
+
+# NuGet
+*.nupkg
+packages/

@@ -4,5 +4,8 @@
     <Project Path="src/PreganaPOS.Application/PreganaPOS.Application.csproj" />
     <Project Path="src/PreganaPOS.Domain/PreganaPOS.Domain.csproj" />
     <Project Path="src/PreganaPOS.Infrastructure/PreganaPOS.Infrastructure.csproj" />
+    <Folder Name="/tests/">
+      <Project Path="tests/PreganaPOS.Domain.Tests/PreganaPOS.Domain.Tests.csproj" />
+    </Folder>
   </Folder>
 </Solution>
