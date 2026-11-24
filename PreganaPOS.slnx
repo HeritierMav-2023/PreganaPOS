@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PreganaPOS.Api/PreganaPOS.Api.csproj" />
+    <Project Path="src/PreganaPOS.Application/PreganaPOS.Application.csproj" />
+    <Project Path="src/PreganaPOS.Domain/PreganaPOS.Domain.csproj" />
+    <Project Path="src/PreganaPOS.Infrastructure/PreganaPOS.Infrastructure.csproj" />
+  </Folder>
+</Solution>

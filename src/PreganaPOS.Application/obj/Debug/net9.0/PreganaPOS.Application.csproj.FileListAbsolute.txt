@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\bin\Debug\net9.0\PreganaPOS.Application.deps.json
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\bin\Debug\net9.0\PreganaPOS.Application.dll
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\bin\Debug\net9.0\PreganaPOS.Application.pdb
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\bin\Debug\net9.0\PreganaPOS.Domain.dll
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\bin\Debug\net9.0\PreganaPOS.Domain.pdb
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaPOS.Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaPOS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaPOS.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaPOS.Application.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaPOS.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaP.2DEEFDFB.Up2Date
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaPOS.Application.dll
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\refint\PreganaPOS.Application.dll
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\PreganaPOS.Application.pdb
+C:\Users\User\Documents\GitHub\PreganaPOS\src\PreganaPOS.Application\obj\Debug\net9.0\ref\PreganaPOS.Application.dll
