@@ -97,7 +97,7 @@ public sealed class Sale
         }
 
         var productById = products.ToDictionary(product => product.Id);
-        foreach (var item in items)
+        foreach (var item in items.GroupBy(item => item.ProductId).Select(group => new { ProductId = group.Key, Quantity = group.Sum(item => item.Quantity) }))
         {
             if (!productById.TryGetValue(item.ProductId, out var product))
             {
@@ -110,7 +110,7 @@ public sealed class Sale
             }
         }
 
-        foreach (var item in items)
+        foreach (var item in items.GroupBy(item => item.ProductId).Select(group => new { ProductId = group.Key, Quantity = group.Sum(item => item.Quantity) }))
         {
             productById[item.ProductId].DecreaseStock(item.Quantity);
         }
